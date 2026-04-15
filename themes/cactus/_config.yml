@@ -30,23 +30,6 @@ social_links:
   -
     icon: github
     link: https://github.com/YiRuiRong
-  -
-    icon: twitter
-    link: /
-  -
-    icon: facebook
-    link: /
-  -
-    icon: mail
-    link: /
-  -
-    icon: mastodon
-    label: mastodon.social
-    link: /
-  -
-    icon: mastodon
-    label: fosstodon.org
-    link: /
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
